@@ -1,0 +1,14 @@
+.center-block {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    float: none !important;
+}
+
+.middle {
+  height: 100%
+}
+
+.sin-margin-bottom {
+  margin-bottom: 0px;
+}
